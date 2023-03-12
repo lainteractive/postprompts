@@ -1,0 +1,14 @@
+body{
+width:500px;
+margin:auto;
+}
+
+.logo {
+    max-width:90%;
+    margin:auto;
+}
+
+.logo img {
+    width:100%;
+}
+
