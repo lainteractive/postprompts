@@ -1,14 +1,21 @@
 body{
-width:500px;
-margin:auto;
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 21px;
+    margin-top: 50px;
+    width: 90%;
 }
 
 .logo {
-    max-width:90%;
+    max-width:70%;
     margin:auto;
 }
 
 .logo img {
     width:100%;
 }
+
+
 
